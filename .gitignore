@@ -1,3 +1,9 @@
+# Large datasets
+*canonical-partitioned-dataset.tar*
+*canonical-paritioned-dataset*
+
+*wandb*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
