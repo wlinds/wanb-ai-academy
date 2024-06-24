@@ -1,0 +1,14 @@
+ipykernel
+wandb
+catboost
+duckdb
+ipykernel
+ipywidgets
+jupyterlab
+matplotlib
+modal-client
+numpy
+pandas
+scikit-learn
+gate-drift
+seaborn
